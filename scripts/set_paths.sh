@@ -1,4 +1,4 @@
-#!/bin/bassh
+#!/bin/bash
 
 
 # Please source the settings64.sh file in your Vivado installation
